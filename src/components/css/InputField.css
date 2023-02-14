@@ -1,0 +1,20 @@
+.input-field{
+    display: inline;
+    height: 80px;
+}
+
+label{
+    color: white;
+}
+
+.three{
+    width: 200px;
+}
+
+.two{
+    width: 300px;
+}
+
+.one{
+    width: 675px;
+}

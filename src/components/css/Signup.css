@@ -1,0 +1,31 @@
+.input_field{
+    /* width: 57%; */
+    width: 96%;
+    font-size: 18px;
+    padding: 1.5%;
+    margin: 0;
+    border: 1px solid black;
+}
+/* #metamashid_input{
+    width: 96%;
+} */
+
+#select{
+    width: 100%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.signup_form{
+    /* display: flex; */
+    text-align: center;
+    flex-direction: column;
+    width: 40%;
+    justify-content: right;
+    align-items: center;
+}
+
+.fetch{
+    float: right;
+}

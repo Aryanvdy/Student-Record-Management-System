@@ -1,0 +1,28 @@
+*{
+    font-size: 20px;
+}
+
+.register_input{
+    display: flex;
+    justify-content: space-between;
+}
+
+.col{
+    display: inline;
+}
+
+.radioLabel{
+    width: 100px;
+}
+
+.radioRow{
+    width: 360px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.StudentRefisterForm{
+    width: 50%;
+    background-color: rgb(21, 39, 87);
+    padding: 30px;
+}

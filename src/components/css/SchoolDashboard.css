@@ -1,0 +1,51 @@
+.dashboardContainer{
+    margin: 0 100px 0 100px;
+    /* background-color: aqua; */
+}
+.countCard{
+    /* padding: 1%; */
+    /* margin: 2%; */
+    /* width: 575px; */
+    width: 47%;
+    /* height: 178px; */
+    background-color: #D9D9D9;
+    text-decoration: none;
+}
+
+.link{
+    text-decoration: none;
+    color: #000000;
+}
+
+.cardContent{
+    padding: 5%;
+}
+
+.countName{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 30px;
+letter-spacing: 0.75em;
+text-transform: uppercase;
+
+color: #000000;
+}
+
+.count{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 70px;
+line-height: 85px;
+text-transform: uppercase;
+
+}
+
+.cardContainer{
+    /* text-align: center; */
+    /* align-items: center; */
+    display: flex;
+    justify-content: space-between;
+}
